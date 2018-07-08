@@ -5,5 +5,5 @@ Machine leaning is subset of artificial intelligence in a field of computer scie
 2) Unsupervised leaning
 3) Rienforcement (semi-supervised) learning.
 
-Under supervised learning we have regression and classification
-Under unsupervised learning we have clustering and association
+Under supervised learning we have `regression` and `classification`.\
+Under unsupervised learning we have `clustering` and `association`.
